@@ -2,8 +2,8 @@
 
 ### 🧬 M.Sc. Biotechnology & Bioinformatics | Genomics Pipeline Developer | Multi-omics Integration
 
-I'm a bioinformatician at **CBRAIN, IISc Bangalore**, working on the genetics of mitochondria in neurodegeneration and aging.  
-I build, benchmark, and automate **NGS and single-cell genomics pipelines** on **HPC/SLURM** using **Python** and **R**.
+I'm a CBRAIN intern at **Centre for Brain Research-IISc Bangalore**, working on the genetics of mitochondria in neurodegeneration and aging.  
+I build, benchmark, and automate **NGS and AutoMitoC pipelines** on **HPC/SLURM** using **Python** and **R**.
 
 ---
 
